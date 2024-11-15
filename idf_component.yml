@@ -1,0 +1,5 @@
+version: "4.4.1"
+description: "RxCpp port to esp"
+license: "Apache License 2.0"
+dependencies:
+  idf: ">=4.0"
